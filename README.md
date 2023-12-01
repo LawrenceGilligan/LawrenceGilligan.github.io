@@ -1,8 +1,8 @@
 # Software Engineer
 
 ## Education
-B.S. Computer Science | Western Governors University
-A.A.S Engineering Technology | Northern Virginia Community College
+- B.S. Computer Science | Western Governors University
+- A.A.S Engineering Technology | Northern Virginia Community College
 
 ## Work Experience
 ### Customer Support Associate @ Koniag Government Services
