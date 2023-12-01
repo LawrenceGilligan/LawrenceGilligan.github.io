@@ -1,6 +1,6 @@
 # Software Engineer
 
-### Education
+## Education
 - B.S. Computer Science
 - A.A.S Engineering Technology
 
