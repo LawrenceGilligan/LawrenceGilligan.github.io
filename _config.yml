@@ -1,5 +1,14 @@
 title: Lawrence Gilligan
 #logo: /assets/img/headshot_circle.png
+
+#header: Contact
+#description: Ltgilligan23@gmail.com
+
+#header: LinkedIn
+#description: https://www.linkedin.com/in/larsgilligan/
+
+header: Location
 description: New York, NY
+
 show_downloads: false
 theme: jekyll-theme-minimal
