@@ -11,13 +11,13 @@
 - Mentored and empowered 12 new recruits over a span of two years, instilling a culture of excellence and fostering leadership skills to consistently achieve high performance standards
 - Developed and designed a data pipeline and improved the root cause analysis of reported issues in customer service obstacles
 
-### Sales Lead/Club Technician
+### Sales Lead/Club Technician @ Golf Galaxy/Dick's Sporting Goods
 - Leveraged precise data analysis obtained from cutting-edge equipment to implement targeted modifications, resulting in a 40% enhancement in customer performance
 - Exceeded sales goals by 25% through expert product knowledge and outstanding customer service
 - Effectively oversaw inventory of over $100,000 worth of golf clubs and merchandise
 - Conducted comprehensive analysis of trend data to identify key areas for client optimization and implemented strategic initiatives, resulting in substantial improvements in client metrics and overall performance
 
-### Data Technician
+### Data Technician @ Micron Technology
 - Revamped the equipment process to deliver an unparalleled running experience, driving an impressive 5% increase in customer retention rates in a 4-month period
 - Conducted preventative maintenance on a monthly basis which resulted in less down time for the equipment
 - Engineered innovative technical solutions to optimize new software development, seamlessly integrating them into the existing process for enhanced efficiency and streamlined operations
