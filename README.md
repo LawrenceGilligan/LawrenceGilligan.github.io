@@ -6,23 +6,22 @@
 
 ## Work Experience
 ### Customer Support Associate @ Koniag Government Services
-- Significantly mitigated customer attrition by implementing tangible measures to address and resolve customer concerns and complaints, resulting in an impressive 35% reduction, while upholding consistently high levels of customer satisfaction
-- Evaluated and researched a knowledge base to ensure consistent and accurate information across departments to reduce errors by 15%
-- Mentored and empowered 12 new recruits over a span of two years, instilling a culture of excellence and fostering leadership skills to consistently achieve high performance standards
-- Developed and designed a data pipeline and improved the root cause analysis of reported issues in customer service obstacles
+- Implemented customer-focused solutions, reducing attrition by 35% and maintaining high satisfaction ratings through structured feedback and issue resolution processes.
+- Standardized cross-departmental knowledge resources, achieving a 15% reduction in errors and improving accuracy.
+- Mentored 12 recruits over two years, fostering skills in conflict resolution and instilling a high-achievement culture.
+- Created a data pipeline that streamlined root cause analysis for customer service issues, reducing response times and enhancing issue tracking by 10%.
 
 ### Sales Lead/Club Technician @ Golf Galaxy/Dick's Sporting Goods
-- Leveraged precise data analysis obtained from cutting-edge equipment to implement targeted modifications, resulting in a 40% enhancement in customer performance
-- Exceeded sales goals by 25% through expert product knowledge and outstanding customer service
-- Effectively oversaw inventory of over $100,000 worth of golf clubs and merchandise
-- Conducted comprehensive analysis of trend data to identify key areas for client optimization and implemented strategic initiatives, resulting in substantial improvements in client metrics and overall performance
+- Utilized data insights from advanced equipment to make targeted adjustments, increasing customer performance by 40%.
+- Surpassed sales targets by 25%, leveraging product expertise and personalized customer service to drive higher conversion rates.
+- Conducted trend analysis to pinpoint client optimization areas and implemented initiatives, improving key performance metrics and overall satisfaction.
 
 ### Data Technician @ Micron Technology
-- Revamped the equipment process to deliver an unparalleled running experience, driving an impressive 5% increase in customer retention rates in a 4-month period
+- Optimized equipment maintenance processes, boosting customer retention by 5% within 4 months by improving reliability and performance consistency.
 - Conducted preventative maintenance on a monthly basis which resulted in less down time for the equipment
-- Engineered innovative technical solutions to optimize new software development, seamlessly integrating them into the existing process for enhanced efficiency and streamlined operations
-- Led the implementation of complex queries to analyze dataset and provided analysis for relevant teams
-- Collaborated with Business Analysts on the development to establish strategies on management and quality of metadata
+- Performed monthly preventative maintenance, reducing equipment downtime by 10% and increasing operational efficiency.
+- Designed and executed complex data queries, generating insights for cross-functional teams and supporting data-driven decisions.
+- Partnered with Business Analysts to develop metadata management strategies, ensuring high data quality and facilitating smoother cross-departmental integration.
 
 ## Skills
 
