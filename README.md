@@ -2,17 +2,35 @@
 
 ## Education
 - B.S. Computer Science | Brooklyn College
-- A.A.S Computer Science | Borough of Manhattan Community College
-- A.A.S Engineering Technology | Northern Virginia Community College
+- A.A.S. Computer Science | Borough of Manhattan Community College
+- A.A.S. Engineering Technology | Northern Virginia Community College
 
 ## Work Experience
 ### Student Employment Assistant @ Columbia University, Teachers College
-### Convocation Assistant @ Columbia University, Teachers College
-### Partner @ Starbucks
-### Customer Support Associate @ Koniag Government Services
-### Operations Lead @ Golf Galaxy
-### Data Technician @ Micron Technology
+- Acted as a key technical liaison for hiring managers and staff, resolving complex system queries and optimizing onboarding workflows via process automation and procedural enhancements
+- Developed and maintained structured technical documentation, including guides and policy updates, to support seamless administrative system integration and user adoption
 
+### Convocation Assistant @ Columbia University, Teachers College
+- Coordinated cross-departmental event operations and system workflows, while troubleshooting technical and operational issues under high-pressure conditions to ensure uninterrupted event execution
+- Managed and maintained complex datasets for 1,900+ stakeholders using Google Sheets and Excel, applying data validation and integrity techniques to support reliable system outputs
+
+### Partner @ Starbucks
+- Enforced adherence to operational protocols and quality control, emphasizing precision, control, and consistency during high-demand periods
+-Trained team members on operating commercial hardware and performing routine maintenance, while fostering a culture of technical competence and reliability
+
+### Customer Support Associate @ Koniag Government Services
+- Delivered multi-channel technical support, diagnosing and resolving software and system issues within strict Service Level Agreements
+- Identified recurring technical problems and created centralized knowledge-base documentation, significantly reducing resolution times and streamlining escalation workflows
+
+### Operations Lead @ Golf Galaxy
+- Designed and implemented operational protocols to ensure compliance, safety, and efficiency, leveraging data-driven insights to optimize workflow and customer experience
+- Managed logistics and scheduling systems for workshops and events, coordinating across teams to ensure smooth execution and resource allocation
+
+### Equipment Technician @ Micron Technology
+- Conducted real-time troubleshooting, preventive maintenance, and calibration on complex automated semiconductor fabrication equipment, ensuring high system uptime and operational reliability
+- Diagnosed hardware and control system failures involving sensors, actuators, relays, and power circuits, applying systematic debugging and root cause analysis techniques
+- Authored and maintained technical procedures, equipment logs, and diagnostic checklists to improve operational workflows and maintenance standards
+- Analyzed system telemetry and log data to isolate hardware-software interface issues and implemented corrective actions to enhance system performance and stability
 
 ## Skills
 
