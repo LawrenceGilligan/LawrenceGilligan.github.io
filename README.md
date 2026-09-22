@@ -1,27 +1,18 @@
 # Software Engineer
 
 ## Education
-- B.S. Computer Science | Western Governors University
+- B.S. Computer Science | Brooklyn College
+- A.A.S Computer Science | Borough of Manhattan Community College
 - A.A.S Engineering Technology | Northern Virginia Community College
 
 ## Work Experience
+### Student Employment Assistant @ Columbia University, Teachers College
+### Convocation Assistant @ Columbia University, Teachers College
+### Partner @ Starbucks
 ### Customer Support Associate @ Koniag Government Services
-- Implemented customer-focused solutions, reducing attrition by 35% and maintaining high satisfaction ratings through structured feedback and issue resolution processes.
-- Standardized cross-departmental knowledge resources, achieving a 15% reduction in errors and improving accuracy.
-- Mentored 12 recruits over two years, fostering skills in conflict resolution and instilling a high-achievement culture.
-- Created a data pipeline that streamlined root cause analysis for customer service issues, reducing response times and enhancing issue tracking by 10%.
-
-### Sales Lead/Club Technician @ Golf Galaxy/Dick's Sporting Goods
-- Utilized data insights from advanced equipment to make targeted adjustments, increasing customer performance by 40%.
-- Surpassed sales targets by 25%, leveraging product expertise and personalized customer service to drive higher conversion rates.
-- Conducted trend analysis to pinpoint client optimization areas and implemented initiatives, improving key performance metrics and overall satisfaction.
-
+### Operations Lead @ Golf Galaxy
 ### Data Technician @ Micron Technology
-- Optimized equipment maintenance processes, boosting customer retention by 5% within 4 months by improving reliability and performance consistency.
-- Conducted preventative maintenance on a monthly basis which resulted in less down time for the equipment
-- Performed monthly preventative maintenance, reducing equipment downtime by 10% and increasing operational efficiency.
-- Designed and executed complex data queries, generating insights for cross-functional teams and supporting data-driven decisions.
-- Partnered with Business Analysts to develop metadata management strategies, ensuring high data quality and facilitating smoother cross-departmental integration.
+
 
 ## Skills
 
